@@ -14,18 +14,9 @@
 
 ### 4. Check Angular CLI
 	PRASHSR2-M-20SX:angular4-basics-app prashsr2$ ng -v
-
-     _                      _                 ____ _     ___
-    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
- /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-
-
-Angular CLI: 6.0.8
-Node: 10.4.1
-OS: darwin x64
+	Angular CLI: 6.0.8
+	  Node: 10.4.1
+	  OS: darwin x64
 
 ### 5. Create new project
 		1. ng new angular6-basics-app --style=scss --routing

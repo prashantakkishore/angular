@@ -1,18 +1,18 @@
-#Angular 6
+# Angular 6
 
-##Installation :
+## Installation :
 
-###1. nodejs check, should be > 8
+### 1. nodejs check, should be > 8
 	node –v [v10.4.1]
-###2. npm check
+### 2. npm check
 	npm –v [6.1.0]
-###3. Install Angular Cli
+### 3. Install Angular Cli
 	npm install -g -f @angular/cli  [If this fails on MAC try below steps]
 		1. npm cache clean
 		2. npm uninstall -g angular-cli
 		3. npm install -g angular-cli
 
-###4. Check Angular CLI
+### 4. Check Angular CLI
 	PRASHSR2-M-20SX:angular4-basics-app prashsr2$ ng -v
 
      _                      _                 ____ _     ___
@@ -27,7 +27,7 @@ Angular CLI: 6.0.8
 Node: 10.4.1
 OS: darwin x64
 
-###5. Create new project
+### 5. Create new project
 		1. ng new angular6-basics-app --style=scss --routing
 		2. cd angular4-basics-app
 		3. ng serve -o

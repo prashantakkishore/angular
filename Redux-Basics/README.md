@@ -4,7 +4,7 @@
 
 Run `npm install` to get required JS libraries.
 
-THis is having redux basics staring concept from plain Javascript. This is having 2 JS to explain the same.
+This is having redux basics staring concept from plain Javascript. This is having 2 JS to explain the same.
 
 ### app.js
 
@@ -22,3 +22,5 @@ This is where Redux comes in , here is the flow.
 
 ![Alt text](images/redux_basics.png?raw=true "Redux Flow")
 
+### References
+https://github.com/hendrikswan/console-redux

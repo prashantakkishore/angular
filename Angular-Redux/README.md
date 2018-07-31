@@ -1,15 +1,14 @@
 # Angular-Redux
 
 This is a pure Angular project. Redux is applied on top of this to save state. Redux related code is inside `checkpoints` here are 3 versions of __Redux__.
+
 Run `npm install` to install dependencies.
 
-1.module_1 - Basic Redux understanding, as discussed in
+1. __module_1__ - Basic Redux understanding, as discussed in [Redux-Basics](https://github.com/prashantakkishore/angular/tree/master/Redux-Basics "Redux-Basics") project.
 
-A [Redux-Basics](https://github.com/prashantakkishore/angular/tree/master/Redux-Basics "Redux-Basics") project.
+2. __module_2__ - Implements Redux with ng-redux
 
-2.module_2 - Implements Redux with ng-redux
-
-3.module_3 - Redux prefers immutibility of store but still it can be modified later , to enforce immutibility we deepFreeze the store , which is implemented here.
+3. __module_3__ - Redux prefers immutibility of store but still it can be modified later , to enforce immutibility we deepFreeze the store , which is implemented here.
 
 
 # CourseLibrary

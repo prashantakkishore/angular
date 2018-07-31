@@ -2,7 +2,9 @@
 
 This is a pure Angular project. Redux is applied on top of this to save state. Redux related code is inside `checkpoints` here are 3 versions of __Redux__.
 
-Run `npm install` to install dependencies.
+This project was created very old version of `Angular CLI` so `node_modules` is also packaged in.
+
+Just run `npm start` to start the project.
 
 1. __module_1__ - Basic Redux understanding, as discussed in [Redux-Basics](https://github.com/prashantakkishore/angular/tree/master/Redux-Basics "Redux-Basics") project.
 
@@ -10,8 +12,12 @@ Run `npm install` to install dependencies.
 
 3. __module_3__ - Redux prefers immutibility of store but still it can be modified later , to enforce immutibility we deepFreeze the store , which is implemented here.
 
+## Screens
 
-# CourseLibrary
+![Alt text](screenshots/courses.png?raw=true "Redux Flow")
+![Alt text](screenshots/edit_courses.png?raw=true "Redux Flow")
+
+## CourseLibrary
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.31.
 

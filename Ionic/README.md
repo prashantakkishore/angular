@@ -1,9 +1,8 @@
 # Ionic
-~~~~
-This uses Ionic and Cordova framewpork to build apps in Angular and deploy to native environment like Android and IOS
+This uses Ionic and Cordova framewpork to build apps in Angular and deploy 
+to native environment like Android and IOS
 * Ionic: https://ionicframework.com/
 * Cordova: https://cordova.apache.org/
-~~~~
 
 ## Setup
 
@@ -11,8 +10,8 @@ This uses Ionic and Cordova framewpork to build apps in Angular and deploy to na
 * Run `ionic` to see all commands.
 * Run `ionic start --list` to see all templates.
 * Run `ionic cordova platform add android` or `ionic platform add android` (older versions)  to add android specific environment, so it can run in native android.
-* Run `ionic cordova build android` or `ionic build android` to build native android app, this depends on __Android SDk__ installed.
-* Run `ionic cordova run android` or `ionic build android` to run on actual devide which should be connected, this depends on __Android SDk__ installed.
+* Run `ionic cordova build android` or `ionic build android` to build native android app, this depends on __Android SDK__ installed.
+* Run `ionic cordova run android` or `ionic build android` to run on actual devide which should be connected, this depends on __Android SDK__ installed.
 
 ## Setup Android SDK
 

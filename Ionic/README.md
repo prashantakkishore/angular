@@ -1,5 +1,5 @@
 # Ionic
-This uses Ionic and Cordova framewpork to build apps in Angular and deploy 
+This uses Ionic and Cordova framework to build apps in Angular and deploy 
 to native environment like Android and IOS
 * Ionic: https://ionicframework.com/
 * Cordova: https://cordova.apache.org/
